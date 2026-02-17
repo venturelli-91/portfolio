@@ -12,6 +12,7 @@ Welcome to my portfolio! I'm passionate about creating robust, scalable, and use
 ## 🌟 Highlight Projects
 
 ### 🏨 Smart Hospitality Booking Platform - Pousada Encanto da Serra
+
 **Full-stack hotel reservation system with PostgreSQL backend**
 
 A complete booking platform with modern frontend and robust backend for data processing. Features an intuitive reservation form with real-time validation and secure data persistence.
@@ -23,6 +24,7 @@ A complete booking platform with modern frontend and robust backend for data pro
 ---
 
 ### 📊 Sales Management Dashboard
+
 **Interactive analytics dashboard for sales tracking and performance monitoring**
 
 Modern dashboard featuring sales overview cards, interactive charts (sales evolution, average ticket), seller rankings with performance indicators, and Excel export functionality.
@@ -34,6 +36,7 @@ Modern dashboard featuring sales overview cards, interactive charts (sales evolu
 ---
 
 ### 🛒 Starsoft Frontend Challenge
+
 **NFT Marketplace with modern architecture**
 
 Scalable marketplace application featuring Redux Toolkit for state management, React Query for data fetching with smart caching, shopping cart functionality, and comprehensive testing suite with Jest.
@@ -45,6 +48,7 @@ Scalable marketplace application featuring Redux Toolkit for state management, R
 ---
 
 ### 💼 Mini Seller Console
+
 **Comprehensive CRM for lead and opportunity management**
 
 Full-featured sales console with lead management, opportunity tracking through sales pipeline, smart search and filtering, CRUD operations, and responsive design with local persistence.
@@ -56,6 +60,7 @@ Full-featured sales console with lead management, opportunity tracking through s
 ---
 
 ### 🎰 Bank Robbery Slot Machine
+
 **Interactive slot game with advanced sprite animations**
 
 Professional slot machine game featuring 5x3 grid, 10 unique symbols with smooth animations, configurable betting system ($100-$10,000), 4 win levels (Small, Big, Mega, Super Mega), and animated Fox character with 61 frames.
@@ -69,6 +74,7 @@ Professional slot machine game featuring 5x3 grid, 10 unique symbols with smooth
 ## 💎 Featured Projects
 
 ### 📅 Meet Schedule
+
 **Scheduling solution with Calendly API integration**
 
 Complete scheduling system featuring Calendly REST API integration, responsive calendar interface, meeting management with SSR/SSG optimization, and comprehensive test coverage.
@@ -80,6 +86,7 @@ Complete scheduling system featuring Calendly REST API integration, responsive c
 ---
 
 ### 📝 Posts CRUD
+
 **Full CRUD application with media support**
 
 Extensible post management system with create, read, update, delete operations, media upload capabilities, optimistic updates, pagination, modals, and accessible animated UI.
@@ -91,6 +98,7 @@ Extensible post management system with create, read, update, delete operations, 
 ---
 
 ### 📅 Timeline Board
+
 **Task management with timeline visualization**
 
 Modern project planning tool with drag-and-drop functionality, dual view modes (Grid and Timeline), responsive design, and robust error handling with boundaries.
@@ -102,6 +110,7 @@ Modern project planning tool with drag-and-drop functionality, dual view modes (
 ---
 
 ### 🔌 API Mock Studio
+
 **Postman-inspired API testing interface**
 
 Endpoint tester with async loading states, real HTTP requests, live response preview, collections sidebar, recent history with local storage persistence, and comprehensive design system.
@@ -113,6 +122,7 @@ Endpoint tester with async loading states, real HTTP requests, live response pre
 ---
 
 ### 🌤️ Weather App
+
 **Modern weather application with professional animations**
 
 Clean architecture weather app featuring 25 tests with 100% pass rate, ShinyButton with shimmer effects, TypeWriter animation with GSAP, OpenWeather API integration, and fully responsive design.
@@ -126,17 +136,19 @@ Clean architecture weather app featuring 25 tests with 100% pass rate, ShinyButt
 ## 🚀 Solid Projects
 
 ### 🤖 Chatbot IA
+
 **AI-powered chatbot with local LLM processing**
 
 Interactive chatbot using Ollama for natural language processing, real-time chat functionality, modern responsive interface, and multi-language support.
 
 **Tech Stack:** Next.js, React, TypeScript, TailwindCSS, Flowbite, Zustand, Ollama
 
-🔗 **[GitHub Repository](https://github.com/venturelli-91/chatbot_ia)**
+🔗 **[GitHub Repository](https://github.com/venturelli-91/chatbot_AI)**
 
 ---
 
 ### 💱 Currency Converter
+
 **Real-time currency conversion application**
 
 Intuitive currency converter with live exchange rates, multiple currency support, responsive design, elegant error handling, and clear user interface.
@@ -148,6 +160,7 @@ Intuitive currency converter with live exchange rates, multiple currency support
 ---
 
 ### ✅ Smart Task List
+
 **Modern to-do list application**
 
 Feature-rich task manager with add, edit, delete, and toggle completion, task filtering (All, Active, Completed), local storage persistence, dark mode, and accessibility support.
@@ -161,6 +174,7 @@ Feature-rich task manager with add, edit, delete, and toggle completion, task fi
 ## 📚 Learning & Practice Projects
 
 ### 💻 CrossCode - Programming Challenges
+
 **Collection of algorithm and data structure challenges**
 
 Organized coding challenges covering arrays, search algorithms, element frequency, inversions, duplicates, and more. Structured by themes and difficulty levels for continuous learning.
@@ -172,6 +186,7 @@ Organized coding challenges covering arrays, search algorithms, element frequenc
 ---
 
 ### 🔐 Login Page
+
 **Modern authentication interface**
 
 Clean login page with real-time form validation, Zustand state management, Framer Motion animations, dark mode toggle, "Remember me" functionality, and password recovery system.
@@ -183,6 +198,7 @@ Clean login page with real-time form validation, Zustand state management, Frame
 ---
 
 ### 👟 Single Page Shoe - Product Showcase
+
 **E-commerce product page for running shoes**
 
 Responsive product page featuring image carousel, breadcrumb navigation, size selector with feedback, accessible HTML, and smooth hover animations.
@@ -199,7 +215,7 @@ Responsive product page featuring image carousel, breadcrumb navigation, size se
 **State Management:** Redux Toolkit, Zustand, Context API, React Query  
 **Backend:** Node.js, Express, PostgreSQL, Sequelize  
 **Testing:** Jest, React Testing Library, ESLint  
-**Tools & Others:** Git, Docker, Vercel, Framer Motion, GSAP, Flowbite, shadcn/ui  
+**Tools & Others:** Git, Docker, Vercel, Framer Motion, GSAP, Flowbite, shadcn/ui
 
 ---
 
@@ -210,7 +226,7 @@ Responsive product page featuring image carousel, breadcrumb navigation, size se
 ✅ **Testing** - Comprehensive test coverage  
 ✅ **Responsive Design** - Mobile-first approach  
 ✅ **Accessibility** - WCAG standards  
-✅ **Performance** - Optimized builds and lazy loading  
+✅ **Performance** - Optimized builds and lazy loading
 
 ---
 
@@ -226,4 +242,4 @@ I'm always open to discussing new projects, creative ideas, or opportunities to 
 
 ⭐ **If you find my work interesting, please consider starring some repositories!**
 
-*Last updated: February 2026*
+_Last updated: February 2026_
